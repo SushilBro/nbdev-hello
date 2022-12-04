@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://SushilBro.github.io',
                 'git_url': 'https://github.com/SushilBro/nbdev-hello',
                 'lib_path': 'nbdev_hello'},
-  'syms': {'nbdev_hello.core': {'nbdev_hello.core.foo': ('core.html#foo', 'nbdev_hello/core.py')}}}
+  'syms': { 'nbdev_hello.core': { 'nbdev_hello.core.foo': ('core.html#foo', 'nbdev_hello/core.py'),
+                                  'nbdev_hello.core.say_hello': ('core.html#say_hello', 'nbdev_hello/core.py')}}}
