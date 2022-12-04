@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello"
+  site-url: "https://SushilBro.github.io/nbdev-hello"
+  description: "Print Hello World With nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/SushilBro/nbdev-hello"
